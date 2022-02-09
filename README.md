@@ -1,4 +1,7 @@
-﻿
+# :book: Exercício de C# :book:
+## Exercício 4
+## Exercício 04 - Desenvolva um algoritmo que solicite a entrada da idade de um determinado usuário. Caso a idade seja menor do que 18 anos, exiba na cor vermelha “Sem permissão”; caso seja maior ou igual a 18 anos, exiba na cor verde “Permissão concedida”.
+```
 namespace exercicio04
 {
     class Program
@@ -31,3 +34,4 @@ namespace exercicio04
         }
     }
 }
+```
